@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+npm-debug.log
+yarn-error.log
+.pnp.js
+
+# Editor-specific
+*.suo
+*.user
+*.vscode/*
